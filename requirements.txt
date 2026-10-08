@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+folium
+streamlit-folium
+requests
+numpy
+openpyxl
+xlsxwriter
+reportlab
+arabic-reshaper
+python-bidi
